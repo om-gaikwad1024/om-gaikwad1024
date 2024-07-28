@@ -1,4 +1,4 @@
-# Hi there, I'm Om R Gaykawad! 👋
+# Hi there, I'm Om R Gaikwad! 👋
 
 
 ## 🚀 About Me
