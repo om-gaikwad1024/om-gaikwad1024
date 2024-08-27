@@ -1,48 +1,59 @@
-# Hi there, I'm Om R Gaikwad! 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Om+Gaikwad!;" />
+</h1>
+
+<h3 align="center"> A passionate software developer from India 🇮🇳 </h3>
+<br/>
+<div align="center">
+<p> 🌟 Focusing on open-source contribution, **C++** and **DSA** <br> <br>
+💡 Learning **Docker**, **Supabase**, and **AWS**  <br><br>
+💬 I talk about **C++**, **Python**, **AI**, **ML**, and **React**  <br><br>
+🚀 Projects: Marketplace development, C++ contributions  <br><br>
+
+📚 Interests: Tech, reading, anime</p>
+</div>
+
+<div align="center">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+
+  <a href="####" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
+  <a href="####" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="####" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <br/>
+  <a href="####" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="####" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="####" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FEFEFE?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="####" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-5A9F2F?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+</p>
+</div>
+
+<div align="center">
+<hr/>
+<h2 align="center">🛠️ My Toolbox & Tech Stack</h2>
+
+| **Category**              | **Technologies**                                                                                                                                                       |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**             | ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js) ![Java](https://skillicons.dev/icons?i=java) |
+| **Frameworks & Libraries**| ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Django](https://skillicons.dev/icons?i=django) ![Flask](https://skillicons.dev/icons?i=flask) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Qt](https://skillicons.dev/icons?i=qt) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Material UI](https://skillicons.dev/icons?i=materialui) |
+| **Tools & Technologies**  | ![CMake](https://skillicons.dev/icons?i=cmake) ![Docker](https://skillicons.dev/icons?i=docker) ![Supabase](https://skillicons.dev/icons?i=supabase) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) ![Linux](https://skillicons.dev/icons?i=linux) ![Postman](https://skillicons.dev/icons?i=postman) ![Anaconda](https://skillicons.dev/icons?i=anaconda) |
+| **Databases**             | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![SQLite](https://skillicons.dev/icons?i=sqlite) |
+| **Design & Others**       | ![Blender](https://skillicons.dev/icons?i=blender) ![Figma](https://skillicons.dev/icons?i=figma) ![Photoshop](https://skillicons.dev/icons?i=photoshop) |
+</div>
+<hr/>
+<h1 align="center">📊 GitHub Stats:</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmGaikwad&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="Om's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmGaikwad&theme=github_dark&hide_border=false" alt="Om's Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmGaikwad&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Om's Top Languages" />
+</p>
 
 
-## 🚀 About Me
-A skilled object-oriented developer with strong expertise in C++, Python, and Python frameworks such as Flask. Proficient in web development, seeking opportunities to contribute to innovative projects and grow professionally.
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300px" />
-
-- 🔭 I’m currently working on [exciting projects](#projects)
-- 🌱 I’m currently learning advanced web development and machine learning.
-- 👯 I’m looking to collaborate on innovative AI and web development projects.
-- 💬 Ask me about C++, Python, Flask, Django, and web development.
-- 📫 How to reach me: [om.gaikwad1024@gmail.com](mailto:om.gaikwad1024@gmail.com)
-- ⚡ Fun fact: I actively participate in hackathons and have won several awards.
-
-## 🛠️ My Toolbox
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-## 📈 GitHub Stats
-![Om R Gaykawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-## 🏆 Achievements
-- **Winners Hack for Hire Hackathon 2024**
-- **Web Designing Winner 2024 [RRCE]**
-- **Coding & Debugging Runner-up 2023 [DSBA]**
-
-## 📚 Projects
-- **ERP Management System**: Webapp - Flask
-- **Movie Recommender System with Sentimental Analysis**: ML - NLP
-- **Mortuary Database**: Database Project - SQLite
-- **Stock Market Analyzer with Price Prediction**: Django - ML-LR
-- **Book Exchange Platform**: Webapp - JS
-- **College Website**: Website - Bootstrap, JS
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omrgaikwad)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/om_gaikwad1024)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://)
-
----
+<hr/>
+<h2 align="center">⚡ Recent GitHub Activity</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmGaikwad&bg_color=0d1117&color=ffffff&line=00ff00&point=ffffff&hide_border=true" alt="Om's GitHub Activity Graph" />
+</p>
