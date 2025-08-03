@@ -5,10 +5,9 @@
 <h3 align="center"> A passionate software developer from India 🇮🇳 </h3>
 <br/>
 <div align="center">
-<p> 🌟 Focusing on open-source contribution, **C++** and **DSA** <br> <br>
-💡 Learning **Docker**, **Supabase**, and **AWS**  <br><br>
-💬 I talk about **C++**, **Python**, **AI**, **ML**, and **React**  <br><br>
-🚀 Projects: Marketplace development, C++ contributions  <br><br>
+
+
+💬 I talk about **Python**, **AI**, **ML**, and **React**  <br><br>
 
 📚 Interests: Tech, reading, anime</p>
 </div>
