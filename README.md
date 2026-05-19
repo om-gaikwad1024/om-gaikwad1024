@@ -12,11 +12,11 @@
 
 ### Hey, I'm Om
 
-Full stack engineer and AI developer based in Bangalore. I build complete applications end to end: database schema, backend, frontend, deployment. No hand-waving at the edges.
+Full stack engineer and AI developer based in Bangalore.
 
-I've shipped production systems across web, mobile, and backend domains, integrated LLMs into live products via custom MCP infrastructure, and built encrypted data pipelines with compliance constraints as runtime logic, not documentation. I work fast, own problems completely, and take every layer of the stack seriously.
-
-3x Hackathon Winner. I compete, I ship, and I tend to place.
+I build end-to-end systems across web, mobile, and backend. My work includes
+LLM integrations via custom MCP infrastructure, encrypted data pipelines, and
+production applications that cover every layer from database to deployment.
 
 ---
 
