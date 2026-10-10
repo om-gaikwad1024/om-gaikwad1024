@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=Om%20Gaikwad&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20%7C%20AI%20%7C%20Systems&descSize=16&descAlignY=85&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=Om%20Gaikwad&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20%7C%20Systems&descSize=16&descAlignY=85&descColor=8b949e" width="100%" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 ### Hey, I'm Om
 
-Full stack engineer and AI developer based in Bangalore.
+Full stack engineer based in Bangalore.
 
 I build end-to-end systems across web, mobile, and backend. My work includes
 LLM integrations via custom MCP infrastructure, encrypted data pipelines, and
@@ -22,7 +22,7 @@ production applications that cover every layer from database to deployment.
 
 <div align="left">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&label=&)](https://om-gaikwad-uni.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&label=&)](https://ommm.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2&label=&)](https://www.linkedin.com/in/om-gaikwad1024/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&label=&)](https://github.com/om-gaikwad1024)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&label=&)](mailto:om.gaikwad1024@gmail.com)
@@ -92,20 +92,6 @@ Ranked in the top 3 nationally in the Social Innovation domain. Built Anvaya, a 
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=om-gaikwad1024&bg_color=0d1117&color=8b949e&line=3b82f6&point=ffffff&area=true&area_color=3b82f620&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=om-gaikwad1024&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
----
-
 ### What I'm Working On
 
 - Deepening Go systems programming: concurrency patterns, low-level network programming, and runtime internals
@@ -132,7 +118,7 @@ Ranked in the top 3 nationally in the Social Innovation domain. Built Anvaya, a 
 
 <div align="left">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&label=&)](https://om-gaikwad-uni.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&label=&)](https://ommm.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2&label=&)](https://www.linkedin.com/in/om-gaikwad1024/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&label=&)](https://github.com/om-gaikwad1024)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&label=&)](mailto:om.gaikwad1024@gmail.com)
